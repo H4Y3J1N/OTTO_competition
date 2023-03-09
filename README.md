@@ -1,2 +1,16 @@
 # OTTO_competition
-22.12.12 ~ ongoing 
+
+research and Improve model performance with
+Graph Neural Network Models 
+
+---
+
+## Model list
+1. Node2Vec
+2. GraphSAGE
+3. GCN
+4. GAT
+
+---
+
+[dataset](https://www.kaggle.com/code/radek1/howto-full-dataset-as-parquet-csv-files)
