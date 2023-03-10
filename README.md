@@ -1,6 +1,6 @@
 # OTTO_competition
 
-research and Improve model performance with
+research and Improve performance with
 Graph Neural Network Models 
 
 ---
