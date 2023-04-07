@@ -6,5 +6,5 @@ def lagged_df(df):
     return df
 
 def generate_Graph(df):
-    Graph = torch.tensor(np.transpose(df[['prev_aid','aid']].to_numpy()),dtype=torch.long)
-    return Graph
+    edges_torch_T = torch.tensor(np.transpose(df[['prev_aid','aid']].to_numpy()),dtype=torch.long)
+    return edges_torch_T
