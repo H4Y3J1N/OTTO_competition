@@ -1,4 +1,5 @@
 # OTTO_competition
+repogitory 이전 및 code 정리 중
 research and Improve performance with Graph Neural Network Models     
 
 **Advance existing completed projects once more**
