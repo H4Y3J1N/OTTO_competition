@@ -31,7 +31,6 @@ gSAGE_loader = NeighborLoader(
     num_neighbors=[5,3],
     batch_size=128)
 
-# kernel dead
 
 class GraphSAGE(torch.nn.Module):
     def __init__(self, in_channels, hidden_channels, out_channels):
